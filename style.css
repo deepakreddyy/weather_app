@@ -1,0 +1,31 @@
+#bck {
+  background-color: #2d3436;
+  background-image: linear-gradient(315deg, #2d3436 0%, #d3d3d3 74%);
+}
+#cloud {
+  width: 20%;
+  height: auto;
+  display: inline-block;
+  margin-right: 60%;
+}
+
+#h1text {
+  position: absolute;
+  top: 50%;
+  left: 37%;
+}
+
+.header-container {
+  position: relative;
+  text-align: center;
+}
+
+#bottom{
+    margin-bottom: 8%;
+}
+
+#hr{
+    width: 80%;
+    margin: 0 auto;
+    padding-bottom: 1%;
+}
